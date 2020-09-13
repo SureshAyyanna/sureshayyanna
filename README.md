@@ -8,14 +8,11 @@ codeSTACKr.comcodeSTACKr | LinkedIncodeSTACKr | InstagramcodeSTACKr | Instagramc
 <!--
 **sureshayyanna/sureshayyanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Rest Asured API Automation
-- 🌱 I’m currently learning Python coding.
-- 👯 I’m looking to collaborate on freelance work and youtube to spread the knowledge.
-- 🤔 I’m looking for help with new Test Automation tools and startergies.
-- 💬 Ask me about Testing (Manual + Automation)
-- 📫 How to reach me: 
-- 😄 Pronouns: He/ His
-- ⚡ Fun fact: I spend always enjoy the music to get more energized
--->
+🔭 4.5+ years of Software industry experience in Software testing (Manual, Automation, DB, API and Web services testing).
+🌱 Exposure on Software Engineering Process and familiar with various Life Cycle Models like SDLC, STLC, ATLC.
+👯 Proficient in Selenium Test Automation using Java programming language.
+🥅 Strong experience on Datadriven framework and Cucumber framework automation using Java programming language.
+⚡ Strong experience on POM, TestNG and Keyword driven Framework automation using Java programming language.
+👯 Well exeprenced in Jenkins CI CD
+🔭 Good exposure on Docker
+codeSTACKr | ![InstagramcodeSTACKr](InstagramcodeSTACKr) | 
