@@ -2,7 +2,7 @@
 
 - **Email**: sureshayyanna1@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/sureshayyanna/
-- **Resume**: 
+- **Resume**: https://github.com/sureshayyanna/Resume/files/5215379/SureshAyyanna_Resume_4.5%2BYrs_Selenium_SDET.pdf
 - **Phone**: +91 8722858513
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/github.svg" />][website]
@@ -88,7 +88,7 @@
 # Education (2011 to 2015)
 ### BMS Institute of Technology & Management
 #### Sub: Electrical and Electronics Engineering Total Percentage: 72.00%
-#### Certified Handwriting Anlyst - Handwriting Institute of India
+#### Certified Handwriting Analyst - Handwriting Institute of India
 #### Certfied Life coach - Health, Wealth , Happiness coach
 
 ---
