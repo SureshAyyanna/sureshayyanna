@@ -35,6 +35,7 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/eclipseide.svg" />][website]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/mysql.svg" />][website]
 </br>
+---
     o	Java
     o	Data driven framework using Java
     o	Cucumber framework using Java
@@ -43,11 +44,10 @@
     o	Manual Testing
     o	Rest API Testing (Postman tool)
     o	Web services Testing
-    o	DB Testing (MYSQL, Oracle 10g)
+    o	DB Testing (MY SQL, Oracle 10g)
     o	API and DB Automation
     o	CI CD
     o	Docker
-
 ---
 
 # Experience 
