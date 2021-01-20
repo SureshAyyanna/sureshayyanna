@@ -2,7 +2,7 @@
 
 - **Email**: sureshayyanna1@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/sureshayyanna/
-- **Resume**: https://github.com/sureshayyanna/Resume/files/5215379/SureshAyyanna_Resume_4.5%2BYrs_Selenium_SDET.pdf
+- **Resume**: https://github.com/sureshayyanna/Resume/blob/master/SureshAyyanna_Resume_5Yrs_Selenium_Automation%2BManual_Tester(SDET).pdf
 - **Phone**: +91 8722858513
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/github.svg" />][website]
