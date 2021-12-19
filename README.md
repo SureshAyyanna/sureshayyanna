@@ -1,5 +1,6 @@
-### Hi there, I'm Suresh Ayyanna 👋
 
+<h1 align="center">Hi 👋, I'm Suresh Ayyanna</h1>
+<h3 align="center">Senior Test Automation Engineer - SDET</h3>
 - **Email**: sureshayyanna1@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/sureshayyanna/
 - **Resume**: https://github.com/sureshayyanna/Resume/blob/master/SureshAyyanna_Resume_5Yrs_Selenium_Automation%2BManual_Tester(SDET).pdf
