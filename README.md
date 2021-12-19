@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Suresh Ayyanna</h1>
 <h3 align="center">Senior Test Automation Engineer - SDET</h3>
+
 - **Email**: sureshayyanna1@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/sureshayyanna/
 - **Resume**: https://github.com/sureshayyanna/Resume/blob/master/SureshAyyanna_Resume_5Yrs_Selenium_Automation%2BManual_Tester(SDET).pdf
@@ -17,7 +18,7 @@
 
 ## I'm a Software Test Engineer!! 
 
-</br>🔭 5+ years of Software industry experience in Software testing (Manual, Automation, DB, API and Web services testing). 
+</br>🔭 6+ years of Software industry experience in Software testing (Manual, Automation, DB, API and Web services testing). 
 </br>🌱 Exposure on Software Engineering Process and familiar with various Life Cycle Models like SDLC, STLC, ATLC.
 </br>👯 Proficient in Selenium Test Automation using Java programming language.
 </br>🥅 Strong experience on Datadriven framework and Cucumber framework automation using Java programming language.
@@ -37,7 +38,7 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/mysql.svg" />][website]
 </br>
 ---
-    o	Java
+    o	Java, Python
     o	Data driven framework using Java
     o	Cucumber framework using Java
     o	Selenium Automation with Java
