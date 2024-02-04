@@ -4,7 +4,7 @@
 
 - **Email**: sureshayyanna1@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/sureshayyanna/
-- **Resume**: https://github.com/SureshAyyanna/Resume/blob/master/SureshAyyanna_6%2BYear_SDET_QA.pdf
+- **Resume**: https://github.com/SureshAyyanna/Resume/blob/master/SureshA_8%2Byears_Senior%20SDET_Resume.pdf
 - **Phone**: +91 8722858513
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/github.svg" />][website]
